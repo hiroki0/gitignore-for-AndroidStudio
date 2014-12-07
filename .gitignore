@@ -64,3 +64,5 @@ _ReSharper.*
 /.idea/libraries
 /.idea/dictionaries
 /build
+!gradle-wrapper.jar
+
